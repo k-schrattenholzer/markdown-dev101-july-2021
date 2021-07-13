@@ -21,6 +21,8 @@ I am a bullet list:
 Feeling **bold**?
 Or just a bit *italic*?
 
-![](airplane.png)
+![Planes](airplane.png)
 
 I love [Links] (https://pictureofhotdog.com)
+
+<strong>    
